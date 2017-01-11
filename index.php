@@ -16,7 +16,7 @@ define('IN_DOUCO', true);
 // 强制在移动端中显示PC版
 if (isset($_REQUEST['mobile'])) {
     setcookie('client', 'pc');
-//    原版无判断
+//原版无判断
     if(isset($_COOKIE['client'])){
         if ($_COOKIE['client'] != 'pc') $_COOKIE['client'] = 'pc';
     }
