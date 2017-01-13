@@ -22,6 +22,7 @@
   <div id="indexRight">
    <!-- {if $open.article} -->
    {include file="inc/recommend_article.tpl"}
+   {include file="inc/recommend_cpbj.tpl"}
    <!-- {/if} -->
    {include file="inc/contact.tpl"} </div>
   <div class="clear"></div>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:47:59
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:30:19
          compiled from inc/online_service.tpl */ ?>
 <?php if ($this->_tpl_vars['site']['qq']): ?>
 <div id="onlineService">

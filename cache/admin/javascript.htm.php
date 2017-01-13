@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:16:45
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:30:16
          compiled from javascript.htm */ ?>
 <script type="text/javascript" src="images/jquery.min.js"></script>
 <script type="text/javascript" src="images/global.js"></script>

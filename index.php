@@ -61,7 +61,8 @@ $smarty->assign('show_list', $dou->get_show_list());
 $smarty->assign('link', get_link_list());
 $smarty->assign('index', $index);
 $smarty->assign('recommend_product', $dou->get_list('product', 'ALL', $_DISPLAY['home_product'], 'sort DESC'));
-$smarty->assign('recommend_article', $dou->get_list('article', 'ALL', $_DISPLAY['home_article'], 'sort DESC'));
+$smarty->assign('recommend_article', $dou->get_list('article', '1,2', $_DISPLAY['home_article'], 'sort DESC'));
+$smarty->assign('recommend_cpbj', $dou->get_list('article', '3', $_DISPLAY['home_article'], 'sort DESC'));
 
 $smarty->display('index.dwt');
 

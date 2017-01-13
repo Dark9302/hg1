@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:16:45
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:30:16
          compiled from dou_msg.htm */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>

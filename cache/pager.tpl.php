@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:48:15
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:33:06
          compiled from inc/pager.tpl */ ?>
 <div class="pager"><?php echo $this->_tpl_vars['lang']['pager_1']; ?>
  <?php echo $this->_tpl_vars['pager']['record_count']; ?>

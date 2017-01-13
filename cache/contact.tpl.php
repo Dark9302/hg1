@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:47:59
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:30:19
          compiled from inc/contact.tpl */ ?>
 <div class="contact">
  <h3><?php echo $this->_tpl_vars['lang']['contact']; ?>

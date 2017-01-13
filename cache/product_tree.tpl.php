@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:48:15
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:43:11
          compiled from inc/product_tree.tpl */ ?>
 <div class="treeBox">
  <h3><?php echo $this->_tpl_vars['lang']['product_tree']; ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 09:42:06
+<?php /* Smarty version 2.6.26, created on 2017-01-13 13:52:18
          compiled from index.htm */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -60,70 +60,7 @@ unset($_smarty_tpl_vars);
    </div>
    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="indexBoxTwo">
     <tr>
-     <td width="65%" valign="top" class="pr">
-      <div class="indexBox">
-       <div class="boxTitle"><?php echo $this->_tpl_vars['lang']['title_site_info']; ?>
-</div>
-       <ul>
-        <table width="100%" border="0" cellspacing="0" cellpadding="7" class="tableBasic">
-         <tr>
-          <td width="120"><?php echo $this->_tpl_vars['lang']['num_page']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['sys_info']['num_page']; ?>
-</strong></td>
-          <td width="100"><?php echo $this->_tpl_vars['lang']['num_article']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['sys_info']['num_article']; ?>
-</strong></td>
-         </tr>
-         <tr>
-          <td><?php echo $this->_tpl_vars['lang']['num_product']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['sys_info']['num_product']; ?>
-</strong></td>
-          <td><?php echo $this->_tpl_vars['lang']['language']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['site']['language']; ?>
-</strong></td>
-         </tr>
-         <tr>
-          <td><?php echo $this->_tpl_vars['lang']['rewrite']; ?>
-：</td>
-          <td><strong><?php if ($this->_tpl_vars['site']['rewrite']): ?><?php echo $this->_tpl_vars['lang']['open']; ?>
-<?php else: ?><?php echo $this->_tpl_vars['lang']['close']; ?>
-<a href="system.php" class="cueRed ml"><?php echo $this->_tpl_vars['lang']['open_cue']; ?>
-</a> 
-           <?php endif; ?></strong></td>
-          <td><?php echo $this->_tpl_vars['lang']['charset']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['sys_info']['charset']; ?>
-</strong></td>
-         </tr>
-         <tr>
-          <td><?php echo $this->_tpl_vars['lang']['if_sitemap']; ?>
-：</td>
-          <td><strong><?php if ($this->_tpl_vars['site']['sitemap']): ?><?php echo $this->_tpl_vars['lang']['open']; ?>
-<?php else: ?><?php echo $this->_tpl_vars['lang']['close']; ?>
-<?php endif; ?></strong></td>
-          <td><?php echo $this->_tpl_vars['lang']['site_theme']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['site']['site_theme']; ?>
-</strong></td>
-         </tr>
-         <tr>
-          <td><?php echo $this->_tpl_vars['lang']['dou_version']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['site']['douphp_version']; ?>
-</strong></td>
-          <td><?php echo $this->_tpl_vars['lang']['build_date']; ?>
-：</td>
-          <td><strong><?php echo $this->_tpl_vars['sys_info']['build_date']; ?>
-</strong></td>
-         </tr>
-        </table>
-       </ul>
-      </div>
-     </td>
+
      <td valign="top" class="pl">
       <div class="indexBox">
        <div class="boxTitle"><?php echo $this->_tpl_vars['lang']['title_admin_log']; ?>

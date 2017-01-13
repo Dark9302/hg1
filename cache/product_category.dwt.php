@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2017-01-10 15:06:14
+<?php /* Smarty version 2.6.26, created on 2017-01-13 11:43:11
          compiled from product_category.dwt */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'truncate', 'product_category.dwt', 23, false),)), $this); ?>
